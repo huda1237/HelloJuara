@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41868050625",
+    "firebase_url": "https://hellojuara-14040.firebaseio.com",
+    "project_id": "hellojuara-14040",
+    "storage_bucket": "hellojuara-14040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41868050625:android:e41fc1dc171c5f738e9440",
+        "android_client_info": {
+          "package_name": "com.juara.hellojuara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41868050625-fj397q3jn4v36silonfffnujiota4i8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUtnPmrN76pbaO3u_UXqRH4G2d0-AlbSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41868050625-fj397q3jn4v36silonfffnujiota4i8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
